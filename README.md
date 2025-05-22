@@ -25,3 +25,10 @@ Organizado por capas: controlador, servicio, repositorio y modelo.
 
 En desarrollo 🚧
 
+## Arquitectura de Software del Proyecto
+-Ver archivo.PDF 
+[entregable1_couryer (2).pdf](https://github.com/user-attachments/files/20380094/entregable1_couryer.2.pdf) 
+
+-Ver nuevas actualizaciones en archivo.doc
+https://docs.google.com/document/d/1PcZVwjl1PlFX8gk1HXAbzoh3t0TtjAPowiNEJQ3eCsE/edit?tab=t.0 
+
